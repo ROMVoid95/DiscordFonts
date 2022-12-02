@@ -126,3 +126,48 @@
   font-weight: 700;
   src: url(https://cdn.jsdelivr.net/gh/ROMVoid95/DiscordFonts@master/Ginto-Nord/Ginto-Nord-700.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/ROMVoid95/DiscordFonts@master/Ginto-Nord/Ginto-Nord-700.woff) format("woff")
 }
+
+/***************/
+/*   gg sans   */
+/***************/
+
+@font-face {
+  font-family: gg sans;
+  font-weight: 300;
+  src: url(https://cdn.jsdelivr.net/gh/ROMVoid95/DiscordFonts@master/gg-sans/gg-sans-300.woff) format("woff")
+}
+
+@font-face {
+  font-family: gg sans;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/ROMVoid95/DiscordFonts@master/gg-sans/gg-sans-400.woff) format("woff")
+}
+
+@font-face {
+  font-family: gg sans;
+  font-weight: 500;
+  src: url(https://cdn.jsdelivr.net/gh/ROMVoid95/DiscordFonts@master/gg-sans/gg-sans-500.woff) format("woff")
+}
+
+@font-face {
+  font-family: gg sans;
+  font-weight: 600;
+  src: url(https://cdn.jsdelivr.net/gh/ROMVoid95/DiscordFonts@master/gg-sans/gg-sans-600.woff) format("woff")
+}
+
+@font-face {
+  font-family: gg sans;
+  font-weight: 700;
+  src: url(https://cdn.jsdelivr.net/gh/ROMVoid95/DiscordFonts@master/gg-sans/gg-sans-700.woff) format("woff")
+}
+
+/******************/
+/* gg sans-Italic */
+/******************/
+
+@font-face {
+  font-family: gg sans;
+  font-weight: 400;
+  font-style: italic;
+  src: url(https://cdn.jsdelivr.net/gh/ROMVoid95/DiscordFonts@master/gg-sans/gg-sans-400-italic.woff) format("woff")
+}
